@@ -35,7 +35,7 @@ To get started with the Habit Tracker app, follow these steps:
    ```
 
 5. **Access the app:**
-   Open your browser and go to `http://127.0.0.1:8000` to start using the Habit Tracker.
+   Open your browser and go to [http://127.0.0.1:8000](http://127.0.0.1:8000) to start using the Habit Tracker.
 
 ## Contributing
 
